@@ -1,0 +1,1229 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-03-16">
+    <creator>NetworkX 3.0</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="Erling Haaland" label="Erling Haaland" />
+      <node id="Germany" label="Germany" />
+      <node id="Enzo Fernández" label="Enzo Fernández" />
+      <node id="Portugal" label="Portugal" />
+      <node id="Antony" label="Antony" />
+      <node id="Netherlands" label="Netherlands" />
+      <node id="Wesley Fofana" label="Wesley Fofana" />
+      <node id="England" label="England" />
+      <node id="Aurélien Tchouameni" label="Aurélien Tchouameni" />
+      <node id="Monaco" label="Monaco" />
+      <node id="Casemiro" label="Casemiro" />
+      <node id="Spain" label="Spain" />
+      <node id="Alexander Isak" label="Alexander Isak" />
+      <node id="Mykhaylo Mudryk" label="Mykhaylo Mudryk" />
+      <node id="Ukraine" label="Ukraine" />
+      <node id="Matthijs de Ligt" label="Matthijs de Ligt" />
+      <node id="Italy" label="Italy" />
+      <node id="Raheem Sterling" label="Raheem Sterling" />
+      <node id="Sadio Mané" label="Sadio Mané" />
+      <node id="Romelu Lukaku" label="Romelu Lukaku" />
+      <node id="João Cancelo" label="João Cancelo" />
+      <node id="Marc Cucurella" label="Marc Cucurella" />
+      <node id="Federico Chiesa" label="Federico Chiesa" />
+      <node id="Jules Kounde" label="Jules Kounde" />
+      <node id="Cody Gakpo" label="Cody Gakpo" />
+      <node id="Richarlison" label="Richarlison" />
+      <node id="Raphinha" label="Raphinha" />
+      <node id="Lisandro Martínez" label="Lisandro Martínez" />
+      <node id="Darwin Núñez" label="Darwin Núñez" />
+      <node id="Fabián Ruiz" label="Fabián Ruiz" />
+      <node id="Gabriel Jesus" label="Gabriel Jesus" />
+      <node id="Cristian Romero" label="Cristian Romero" />
+      <node id="Kalvin Phillips" label="Kalvin Phillips" />
+      <node id="Carlos Soler" label="Carlos Soler" />
+      <node id="João Félix" label="João Félix" />
+      <node id="Paul Pogba" label="Paul Pogba" />
+      <node id="Anthony Gordon" label="Anthony Gordon" />
+      <node id="Robert Lewandowski" label="Robert Lewandowski" />
+      <node id="Matheus Nunes" label="Matheus Nunes" />
+      <node id="Franck Kessié" label="Franck Kessié" />
+      <node id="Argentina" label="Argentina" />
+      <node id="Lucas Paquetá" label="Lucas Paquetá" />
+      <node id="France" label="France" />
+      <node id="Amine Gouiri" label="Amine Gouiri" />
+      <node id="Vitinha" label="Vitinha" />
+      <node id="Bremer" label="Bremer" />
+      <node id="Nuno Mendes" label="Nuno Mendes" />
+      <node id="Benoît Badiashile" label="Benoît Badiashile" />
+      <node id="Gonçalo Guedes" label="Gonçalo Guedes" />
+      <node id="Diego Carlos" label="Diego Carlos" />
+      <node id="Antonio Rüdiger" label="Antonio Rüdiger" />
+      <node id="Kalidou Koulibaly" label="Kalidou Koulibaly" />
+      <node id="Sven Botman" label="Sven Botman" />
+      <node id="Gianluca Scamacca" label="Gianluca Scamacca" />
+      <node id="Fábio Vieira" label="Fábio Vieira" />
+      <node id="Nayef Aguerd" label="Nayef Aguerd" />
+      <node id="Oleksandr Zinchenko" label="Oleksandr Zinchenko" />
+      <node id="Amadou Onana" label="Amadou Onana" />
+      <node id="Noni Madueke" label="Noni Madueke" />
+      <node id="Sébastien Haller" label="Sébastien Haller" />
+      <node id="Karim Adeyemi" label="Karim Adeyemi" />
+      <node id="Austria" label="Austria" />
+      <node id="Yves Bissouma" label="Yves Bissouma" />
+      <node id="Timo Werner" label="Timo Werner" />
+      <node id="Ryan Gravenberch" label="Ryan Gravenberch" />
+      <node id="Jorginho" label="Jorginho" />
+      <node id="Arnaut Danjuma" label="Arnaut Danjuma" />
+      <node id="Niklas Süle" label="Niklas Süle" />
+      <node id="Andreas Christensen" label="Andreas Christensen" />
+      <node id="Paulo Dybala" label="Paulo Dybala" />
+      <node id="Nico Schlotterbeck" label="Nico Schlotterbeck" />
+      <node id="Brenden Aaronson" label="Brenden Aaronson" />
+      <node id="Charles De Ketelaere" label="Charles De Ketelaere" />
+      <node id="Belgium" label="Belgium" />
+      <node id="Steven Bergwijn" label="Steven Bergwijn" />
+      <node id="Malo Gusto" label="Malo Gusto" />
+      <node id="Leandro Trossard" label="Leandro Trossard" />
+      <node id="Manuel Akanji" label="Manuel Akanji" />
+      <node id="Frank Anguissa" label="Frank Anguissa" />
+      <node id="Nicolò Zaniolo" label="Nicolò Zaniolo" />
+      <node id="Renan Lodi" label="Renan Lodi" />
+      <node id="Tanguy Ndombélé" label="Tanguy Ndombélé" />
+      <node id="Angeliño" label="Angeliño" />
+      <node id="Morgan Gibbs-White" label="Morgan Gibbs-White" />
+      <node id="Renato Sanches" label="Renato Sanches" />
+      <node id="Leander Dendoncker" label="Leander Dendoncker" />
+      <node id="Giacomo Raspadori" label="Giacomo Raspadori" />
+      <node id="Hugo Ekitiké" label="Hugo Ekitiké" />
+      <node id="Mohamed Camara" label="Mohamed Camara" />
+      <node id="Xaver Schlager" label="Xaver Schlager" />
+      <node id="Denis Zakaria" label="Denis Zakaria" />
+      <node id="David Raum" label="David Raum" />
+      <node id="Luis Sinisterra" label="Luis Sinisterra" />
+      <node id="Jakub Kiwior" label="Jakub Kiwior" />
+      <node id="Kamaldeen Sulemana" label="Kamaldeen Sulemana" />
+      <node id="Merih Demiral" label="Merih Demiral" />
+      <node id="João Palhinha" label="João Palhinha" />
+      <node id="Danilo" label="Danilo" />
+      <node id="Brazil" label="Brazil" />
+      <node id="Sasa Kalajdzic" label="Sasa Kalajdzic" />
+      <node id="Mattéo Guendouzi" label="Mattéo Guendouzi" />
+      <node id="Pedro Porro" label="Pedro Porro" />
+      <node id="Raúl de Tomás" label="Raúl de Tomás" />
+      <node id="Lucas Ocampos" label="Lucas Ocampos" />
+      <node id="Lorenzo Insigne" label="Lorenzo Insigne" />
+      <node id="Boubacar Kamara" label="Boubacar Kamara" />
+      <node id="Conor Coady" label="Conor Coady" />
+      <node id="Nicolas Pépé" label="Nicolas Pépé" />
+      <node id="Callum Hudson-Odoi" label="Callum Hudson-Odoi" />
+      <node id="Sergio Reguilón" label="Sergio Reguilón" />
+      <node id="Nathan Collins" label="Nathan Collins" />
+      <node id="Filip Kostić" label="Filip Kostić" />
+      <node id="Joaquín Correa" label="Joaquín Correa" />
+      <node id="Calvin Bassey" label="Calvin Bassey" />
+      <node id="Scotland" label="Scotland" />
+      <node id="Ilya Zabarnyi" label="Ilya Zabarnyi" />
+      <node id="Jérémie Boga" label="Jérémie Boga" />
+      <node id="Sofiane Diop" label="Sofiane Diop" />
+      <node id="Thilo Kehrer" label="Thilo Kehrer" />
+      <node id="Cengiz Ünder" label="Cengiz Ünder" />
+      <node id="Viktor Tsygankov" label="Viktor Tsygankov" />
+      <node id="James Tarkowski" label="James Tarkowski" />
+      <node id="Giovani Lo Celso" label="Giovani Lo Celso" />
+      <node id="Julian Weigl" label="Julian Weigl" />
+      <node id="Jan Bednarek" label="Jan Bednarek" />
+      <node id="Mauro Icardi" label="Mauro Icardi" />
+      <node id="Hamed Junior Traorè" label="Hamed Junior Traorè" />
+      <node id="Weston McKennie" label="Weston McKennie" />
+      <node id="Maxwel Cornet" label="Maxwel Cornet" />
+      <node id="Taiwo Awoniyi" label="Taiwo Awoniyi" />
+      <node id="David Carmo" label="David Carmo" />
+      <node id="Philippe Coutinho" label="Philippe Coutinho" />
+      <node id="Neco Williams" label="Neco Williams" />
+      <node id="Mathys Tel" label="Mathys Tel" />
+      <node id="Nahuel Molina" label="Nahuel Molina" />
+      <node id="Arnaud Kalimuendo" label="Arnaud Kalimuendo" />
+      <node id="Umar Sadiq" label="Umar Sadiq" />
+      <node id="Pervis Estupiñán" label="Pervis Estupiñán" />
+      <node id="David Neres" label="David Neres" />
+      <node id="Dodô" label="Dodô" />
+      <node id="Álex Moreno" label="Álex Moreno" />
+      <node id="Adam Hlozek" label="Adam Hlozek" />
+      <node id="Czech Republic" label="Czech Republic" />
+      <node id="Nordi Mukiele" label="Nordi Mukiele" />
+      <node id="Remo Freuler" label="Remo Freuler" />
+      <node id="Lucas Torreira" label="Lucas Torreira" />
+      <node id="Pablo Sarabia" label="Pablo Sarabia" />
+      <node id="Trincão" label="Trincão" />
+      <node id="Memphis Depay" label="Memphis Depay" />
+      <node id="Antonin Barak" label="Antonin Barak" />
+      <node id="Noussair Mazraoui" label="Noussair Mazraoui" />
+      <node id="Christian Eriksen" label="Christian Eriksen" />
+      <node id="Andrea Pinamonti" label="Andrea Pinamonti" />
+      <node id="Nico González" label="Nico González" />
+      <node id="Andrea Belotti" label="Andrea Belotti" />
+      <node id="Héctor Bellerín" label="Héctor Bellerín" />
+      <node id="Matheus Cunha" label="Matheus Cunha" />
+      <node id="Marcel Sabitzer" label="Marcel Sabitzer" />
+      <node id="Keane Lewis-Potter" label="Keane Lewis-Potter" />
+      <node id="Arthur Theate" label="Arthur Theate" />
+      <node id="Hassane Kamara" label="Hassane Kamara" />
+      <node id="João Gomes" label="João Gomes" />
+      <node id="Min-jae Kim" label="Min-jae Kim" />
+      <node id="Turkey" label="Turkey" />
+      <node id="Carney Chukwuemeka" label="Carney Chukwuemeka" />
+      <node id="Destiny Udogie" label="Destiny Udogie" />
+      <node id="Paul Onuachu" label="Paul Onuachu" />
+      <node id="Dwight McNeil" label="Dwight McNeil" />
+      <node id="Aaron Hickey" label="Aaron Hickey" />
+      <node id="Gaëtan Laborde" label="Gaëtan Laborde" />
+      <node id="Gerson" label="Gerson" />
+      <node id="Brais Méndez" label="Brais Méndez" />
+      <node id="Neal Maupay" label="Neal Maupay" />
+      <node id="Moussa Niakhaté" label="Moussa Niakhaté" />
+      <node id="Mattia Zaccagni" label="Mattia Zaccagni" />
+      <node id="Zeki Celik" label="Zeki Celik" />
+      <node id="Arthur Melo" label="Arthur Melo" />
+      <node id="Julian Draxler" label="Julian Draxler" />
+      <node id="Abdou Diallo" label="Abdou Diallo" />
+      <node id="Matthias Ginter" label="Matthias Ginter" />
+      <node id="Jesse Lingard" label="Jesse Lingard" />
+      <node id="Dean Henderson" label="Dean Henderson" />
+      <node id="Alex Telles" label="Alex Telles" />
+      <node id="Georginio Wijnaldum" label="Georginio Wijnaldum" />
+      <node id="Sergiño Dest" label="Sergiño Dest" />
+      <node id="André Gomes" label="André Gomes" />
+      <node id="Daniel James" label="Daniel James" />
+      <node id="Nathan Redmond" label="Nathan Redmond" />
+      <node id="Ruslan Malinovskyi" label="Ruslan Malinovskyi" />
+      <node id="Issa Diop" label="Issa Diop" />
+      <node id="Matt Targett" label="Matt Targett" />
+      <node id="Tyler Adams" label="Tyler Adams" />
+      <node id="Wout Faes" label="Wout Faes" />
+      <node id="Harry Souttar" label="Harry Souttar" />
+      <node id="Tyrell Malacia" label="Tyrell Malacia" />
+      <node id="Marcos Senesi" label="Marcos Senesi" />
+      <node id="Jordan Veretout" label="Jordan Veretout" />
+      <node id="Giovanni Simeone" label="Giovanni Simeone" />
+      <node id="Yusuf Yazici" label="Yusuf Yazici" />
+      <node id="Alessio Romagnoli" label="Alessio Romagnoli" />
+      <node id="Chancel Mbemba" label="Chancel Mbemba" />
+      <node id="Leandro Paredes" label="Leandro Paredes" />
+      <node id="Kasper Dolberg" label="Kasper Dolberg" />
+      <node id="Hee-chan Hwang" label="Hee-chan Hwang" />
+      <node id="Jhon Durán" label="Jhon Durán" />
+      <node id="United States" label="United States" />
+      <node id="Mathías Olivera" label="Mathías Olivera" />
+      <node id="Brian Brobbey" label="Brian Brobbey" />
+      <node id="Georginio Rutter" label="Georginio Rutter" />
+      <node id="Tanguy Nianzou" label="Tanguy Nianzou" />
+      <node id="Danny Ings" label="Danny Ings" />
+      <node id="St. Juste" label="St. Juste" />
+      <node id="Arkadiusz Milik" label="Arkadiusz Milik" />
+      <node id="Duje Caleta-Car" label="Duje Caleta-Car" />
+      <node id="Matteo Pessina" label="Matteo Pessina" />
+      <node id="Randal Kolo Muani" label="Randal Kolo Muani" />
+      <node id="Luiz Felipe" label="Luiz Felipe" />
+      <node id="Luka Jović" label="Luka Jović" />
+      <node id="Bertrand Traoré" label="Bertrand Traoré" />
+      <node id="Dele Alli" label="Dele Alli" />
+      <node id="Diadié Samassékou" label="Diadié Samassékou" />
+      <node id="Yuri Alberto" label="Yuri Alberto" />
+      <node id="Russia" label="Russia" />
+      <node id="Cheick Doucouré" label="Cheick Doucouré" />
+      <node id="Roman Yaremchuk" label="Roman Yaremchuk" />
+      <node id="Takumi Minamino" label="Takumi Minamino" />
+      <node id="Mikkel Damsgaard" label="Mikkel Damsgaard" />
+      <node id="Cesare Casadei" label="Cesare Casadei" />
+      <node id="Éverton" label="Éverton" />
+      <node id="Rasmus Kristensen" label="Rasmus Kristensen" />
+      <node id="Orel Mangala" label="Orel Mangala" />
+      <node id="Breel Embolo" label="Breel Embolo" />
+      <node id="Pierre-Emerick Aubameyang" label="Pierre-Emerick Aubameyang" />
+      <node id="Khvicha Kvaratskhelia" label="Khvicha Kvaratskhelia" />
+      <node id="Georgia" label="Georgia" />
+      <node id="Nick Pope" label="Nick Pope" />
+      <node id="Momo Cho" label="Momo Cho" />
+      <node id="Mattias Svanberg" label="Mattias Svanberg" />
+      <node id="Azzedine Ounahi" label="Azzedine Ounahi" />
+      <node id="Jonathan Clauss" label="Jonathan Clauss" />
+      <node id="Konstantinos Mavropanos" label="Konstantinos Mavropanos" />
+      <node id="Terem Moffi" label="Terem Moffi" />
+      <node id="Alexandre Lacazette" label="Alexandre Lacazette" />
+      <node id="Corentin Tolisso" label="Corentin Tolisso" />
+      <node id="Fábio Silva" label="Fábio Silva" />
+      <node id="Nuno Tavares" label="Nuno Tavares" />
+      <node id="Harry Winks" label="Harry Winks" />
+      <node id="Amad Diallo" label="Amad Diallo" />
+      <node id="Justin Kluivert" label="Justin Kluivert" />
+      <node id="Albert Sambi Lokonga" label="Albert Sambi Lokonga" />
+      <node id="Emmanuel Dennis" label="Emmanuel Dennis" />
+      <node id="Djed Spence" label="Djed Spence" />
+      <node id="Diego Rossi" label="Diego Rossi" />
+      <node id="Emerson" label="Emerson" />
+      <node id="Gavin Bazunu" label="Gavin Bazunu" />
+      <node id="Mohamed Bayo" label="Mohamed Bayo" />
+      <node id="Victor Kristiansen" label="Victor Kristiansen" />
+      <node id="Denmark" label="Denmark" />
+      <node id="Marcão" label="Marcão" />
+      <node id="Wout Weghorst" label="Wout Weghorst" />
+      <node id="Sebastian Szymanski" label="Sebastian Szymanski" />
+      <node id="Yangel Herrera" label="Yangel Herrera" />
+      <node id="Walter Benítez" label="Walter Benítez" />
+      <node id="Jason Denayer" label="Jason Denayer" />
+      <node id="Kayky" label="Kayky" />
+      <node id="Carlos Alcaraz" label="Carlos Alcaraz" />
+      <node id="Éderson" label="Éderson" />
+      <node id="Sékou Mara" label="Sékou Mara" />
+      <node id="Sergio Gómez" label="Sergio Gómez" />
+      <node id="Fredrik Aursnes" label="Fredrik Aursnes" />
+      <node id="Lucas Gourna-Douath" label="Lucas Gourna-Douath" />
+      <node id="Mattia Viti" label="Mattia Viti" />
+      <node id="Sasa Lukic" label="Sasa Lukic" />
+      <node id="Salih Özcan" label="Salih Özcan" />
+      <node id="Ivan Ilić" label="Ivan Ilić" />
+      <node id="Calvin Stengs" label="Calvin Stengs" />
+      <node id="Ethan Ampadu" label="Ethan Ampadu" />
+      <node id="James Rodríguez" label="James Rodríguez" />
+      <node id="Qatar" label="Qatar" />
+      <node id="Andrey Santos" label="Andrey Santos" />
+      <node id="Roméo Lavia" label="Roméo Lavia" />
+      <node id="Fernando Gorriarán" label="Fernando Gorriarán" />
+      <node id="Mexico" label="Mexico" />
+      <node id="Pau López" label="Pau López" />
+      <node id="Marc Roca" label="Marc Roca" />
+      <node id="Agustín Álvarez" label="Agustín Álvarez" />
+      <node id="Uruguay" label="Uruguay" />
+      <node id="Chris Richards" label="Chris Richards" />
+      <node id="Alexis Beka Beka" label="Alexis Beka Beka" />
+      <node id="Stanley Nsoki" label="Stanley Nsoki" />
+      <node id="David Datro Fofana" label="David Datro Fofana" />
+      <node id="Norway" label="Norway" />
+      <node id="Maximilian Wöber" label="Maximilian Wöber" />
+      <node id="Naouirou Ahamada" label="Naouirou Ahamada" />
+      <node id="Gabriel Veron" label="Gabriel Veron" />
+      <node id="Luís Maximiano" label="Luís Maximiano" />
+      <node id="Willian José" label="Willian José" />
+      <node id="Owen Wijndal" label="Owen Wijndal" />
+      <node id="Marko Grujić" label="Marko Grujić" />
+      <node id="Samuele Ricci" label="Samuele Ricci" />
+      <node id="Billy Gilmour" label="Billy Gilmour" />
+      <node id="Luiz Henrique" label="Luiz Henrique" />
+      <node id="Angelo Fulgini" label="Angelo Fulgini" />
+      <node id="Fábio Carvalho" label="Fábio Carvalho" />
+      <node id="João Pedro" label="João Pedro" />
+      <node id="Idrissa Gueye" label="Idrissa Gueye" />
+      <node id="Sérgio Oliveira" label="Sérgio Oliveira" />
+      <node id="Maxi Gómez" label="Maxi Gómez" />
+      <node id="Andrea Petagna" label="Andrea Petagna" />
+      <node id="Karl Toko Ekambi" label="Karl Toko Ekambi" />
+      <node id="Razvan Marin" label="Razvan Marin" />
+      <node id="Boulaye Dia" label="Boulaye Dia" />
+      <node id="Krzysztof Piatek" label="Krzysztof Piatek" />
+      <node id="Kevin Schade" label="Kevin Schade" />
+      <node id="Diego Llorente" label="Diego Llorente" />
+      <node id="Sam Johnstone" label="Sam Johnstone" />
+      <node id="André Onana" label="André Onana" />
+      <node id="Divock Origi" label="Divock Origi" />
+      <node id="Clément Lenglet" label="Clément Lenglet" />
+      <node id="Ángel Di María" label="Ángel Di María" />
+      <node id="Taty Castellanos" label="Taty Castellanos" />
+      <node id="Adnan Januzaj" label="Adnan Januzaj" />
+      <node id="Loïc Badé" label="Loïc Badé" />
+      <node id="Marcos Alonso" label="Marcos Alonso" />
+      <node id="Gustavo Scarpa" label="Gustavo Scarpa" />
+      <node id="Bryan Gil" label="Bryan Gil" />
+      <node id="Sergi Canós" label="Sergi Canós" />
+      <node id="Matt Doherty" label="Matt Doherty" />
+      <node id="Marcus Tavernier" label="Marcus Tavernier" />
+      <node id="Julio Enciso" label="Julio Enciso" />
+      <node id="Paraguay" label="Paraguay" />
+      <node id="Youssouf Ndayishimiye" label="Youssouf Ndayishimiye" />
+      <node id="Mario Lemina" label="Mario Lemina" />
+      <node id="Máximo Perrone" label="Máximo Perrone" />
+      <node id="Lyle Foster" label="Lyle Foster" />
+      <node id="Joshua Zirkzee" label="Joshua Zirkzee" />
+      <node id="Matheus Henrique" label="Matheus Henrique" />
+      <node id="Ludovic Ajorque" label="Ludovic Ajorque" />
+      <node id="Nicolás Tagliafico" label="Nicolás Tagliafico" />
+      <node id="Mady Camara" label="Mady Camara" />
+      <node id="Greece" label="Greece" />
+      <node id="Flynn Downes" label="Flynn Downes" />
+      <node id="Wales" label="Wales" />
+      <node id="Gabriel Sara" label="Gabriel Sara" />
+      <node id="James Garner" label="James Garner" />
+      <node id="Antoine Semenyo" label="Antoine Semenyo" />
+      <node id="Nicolás Ibáñez" label="Nicolás Ibáñez" />
+      <node id="Dango Ouattara" label="Dango Ouattara" />
+      <node id="Armel Bella-Kotchap" label="Armel Bella-Kotchap" />
+      <node id="Jens Petter Hauge" label="Jens Petter Hauge" />
+      <node id="Jakub Kaminski" label="Jakub Kaminski" />
+      <node id="Poland" label="Poland" />
+      <node id="Borja Mayoral" label="Borja Mayoral" />
+      <node id="Jeffinho" label="Jeffinho" />
+      <node id="Rúben Vinagre" label="Rúben Vinagre" />
+      <node id="Raphael Onyedika" label="Raphael Onyedika" />
+      <node id="Giulian Biancone" label="Giulian Biancone" />
+      <node id="Armand Laurienté" label="Armand Laurienté" />
+      <node id="Kristian Thorstvedt" label="Kristian Thorstvedt" />
+      <node id="Junya Ito" label="Junya Ito" />
+      <node id="Luis Suárez" label="Luis Suárez" />
+      <node id="Ademola Lookman" label="Ademola Lookman" />
+      <node id="Guglielmo Vicario" label="Guglielmo Vicario" />
+      <node id="Rolando Mandragora" label="Rolando Mandragora" />
+      <node id="Gerónimo Rulli" label="Gerónimo Rulli" />
+      <node id="Joe Aribo" label="Joe Aribo" />
+      <node id="Beto" label="Beto" />
+      <node id="Ozan Kabak" label="Ozan Kabak" />
+      <node id="Sofiane Boufal" label="Sofiane Boufal" />
+      <node id="Mislav Orsic" label="Mislav Orsic" />
+      <node id="Croatia" label="Croatia" />
+      <node id="Gianluca Caprari" label="Gianluca Caprari" />
+      <node id="Kristjan Asllani" label="Kristjan Asllani" />
+      <node id="Wilfried Gnonto" label="Wilfried Gnonto" />
+      <node id="Switzerland" label="Switzerland" />
+      <node id="Hugo Duro" label="Hugo Duro" />
+      <node id="Mahmoud Trezeguet" label="Mahmoud Trezeguet" />
+      <node id="Michy Batshuayi" label="Michy Batshuayi" />
+      <node id="Mario Götze" label="Mario Götze" />
+      <node id="Léo Dubois" label="Léo Dubois" />
+      <node id="Aster Vranckx" label="Aster Vranckx" />
+      <node id="Alexander Sörloth" label="Alexander Sörloth" />
+      <node id="Mathias Normann" label="Mathias Normann" />
+      <node id="Romain Faivre" label="Romain Faivre" />
+      <node id="Aleksey Miranchuk" label="Aleksey Miranchuk" />
+      <node id="Pierluigi Gollini" label="Pierluigi Gollini" />
+      <node id="Alessio Cragno" label="Alessio Cragno" />
+      <node id="Manu Sánchez" label="Manu Sánchez" />
+      <node id="Cyle Larin" label="Cyle Larin" />
+      <node id="Ivan Perisic" label="Ivan Perisic" />
+      <node id="Federico Bernardeschi" label="Federico Bernardeschi" />
+      <node id="Alex Mowatt" label="Alex Mowatt" />
+      <node id="Ander Herrera" label="Ander Herrera" />
+      <node id="Nicolò Rovella" label="Nicolò Rovella" />
+      <node id="Stefan Posch" label="Stefan Posch" />
+      <node id="Serhou Guirassy" label="Serhou Guirassy" />
+      <node id="Ainsley Maitland-Niles" label="Ainsley Maitland-Niles" />
+      <node id="Amine Harit" label="Amine Harit" />
+      <node id="Allan" label="Allan" />
+      <node id="Chris Wood" label="Chris Wood" />
+      <node id="Matheus Pereira" label="Matheus Pereira" />
+      <node id="Saudi Arabia" label="Saudi Arabia" />
+      <node id="Pape Gueye" label="Pape Gueye" />
+      <node id="Jeff Reine-Adélaïde" label="Jeff Reine-Adélaïde" />
+      <node id="Marquinhos" label="Marquinhos" />
+      <node id="Florian Thauvin" label="Florian Thauvin" />
+      <node id="Loïs Openda" label="Loïs Openda" />
+      <node id="Cucho Hernández" label="Cucho Hernández" />
+      <node id="José Manuel López" label="José Manuel López" />
+      <node id="João Victor" label="João Victor" />
+      <node id="Andreas Pereira" label="Andreas Pereira" />
+      <node id="Ahmetcan Kaplan" label="Ahmetcan Kaplan" />
+      <node id="Evander" label="Evander" />
+      <node id="Miralem Pjanic" label="Miralem Pjanic" />
+      <node id="Lewis O'Brien" label="Lewis O'Brien" />
+      <node id="Alphonse Areola" label="Alphonse Areola" />
+      <node id="Gabriel Slonina" label="Gabriel Slonina" />
+      <node id="Andrea Colpani" label="Andrea Colpani" />
+      <node id="Perr Schuurs" label="Perr Schuurs" />
+      <node id="Christopher Wooh" label="Christopher Wooh" />
+      <node id="Andreas Schjelderup" label="Andreas Schjelderup" />
+      <node id="Jonas Omlin" label="Jonas Omlin" />
+      <node id="Josip Juranovic" label="Josip Juranovic" />
+      <node id="Jhon Lucumí" label="Jhon Lucumí" />
+      <node id="Adam Buksa" label="Adam Buksa" />
+      <node id="Andreas Cornelius" label="Andreas Cornelius" />
+      <node id="Facundo Buonanotte" label="Facundo Buonanotte" />
+      <node id="Kevin Mbabu" label="Kevin Mbabu" />
+      <node id="Anders Dreyer" label="Anders Dreyer" />
+      <node id="Bernd Leno" label="Bernd Leno" />
+      <node id="Kristijan Jakic" label="Kristijan Jakic" />
+      <node id="Anwar El Ghazi" label="Anwar El Ghazi" />
+      <node id="Predrag Rajković" label="Predrag Rajković" />
+      <node id="Nikola Moro" label="Nikola Moro" />
+      <node id="Ricardo Pepi" label="Ricardo Pepi" />
+      <node id="Thorgan Hazard" label="Thorgan Hazard" />
+      <node id="Portu" label="Portu" />
+      <node id="Freddie Woodman" label="Freddie Woodman" />
+      <node id="Óscar Rodríguez" label="Óscar Rodríguez" />
+      <node id="Unai Núñez" label="Unai Núñez" />
+      <node id="Luca Pellegrini" label="Luca Pellegrini" />
+      <node id="Paco Alcácer" label="Paco Alcácer" />
+      <node id="Jean-Philippe Gbamin" label="Jean-Philippe Gbamin" />
+      <node id="Ilaix Moriba" label="Ilaix Moriba" />
+      <node id="Rafinha" label="Rafinha" />
+      <node id="Ritsu Doan" label="Ritsu Doan" />
+      <node id="Omar Richards" label="Omar Richards" />
+      <node id="Julien Duranville" label="Julien Duranville" />
+      <node id="Giulio Maggiore" label="Giulio Maggiore" />
+      <node id="Alexander Bah" label="Alexander Bah" />
+      <node id="Simon Adingra" label="Simon Adingra" />
+      <node id="André Almeida" label="André Almeida" />
+      <node id="Nathan Ngoumou" label="Nathan Ngoumou" />
+      <node id="El Bilal Touré" label="El Bilal Touré" />
+      <node id="Ismaël Koné" label="Ismaël Koné" />
+      <node id="Canada" label="Canada" />
+      <node id="César Montes" label="César Montes" />
+      <node id="Yann Sommer" label="Yann Sommer" />
+      <node id="Marcos Antônio" label="Marcos Antônio" />
+      <node id="Abner" label="Abner" />
+      <node id="Bamba Dieng" label="Bamba Dieng" />
+      <node id="Kaiky" label="Kaiky" />
+      <node id="Lucas Alario" label="Lucas Alario" />
+      <node id="Patrick Wimmer" label="Patrick Wimmer" />
+      <node id="Flavius Daniliuc" label="Flavius Daniliuc" />
+      <node id="Francisco Conceição" label="Francisco Conceição" />
+      <node id="Carlos Vinícius" label="Carlos Vinícius" />
+      <node id="Martín Ojeda" label="Martín Ojeda" />
+      <node id="Denis Bouanga" label="Denis Bouanga" />
+      <node id="Wanderson" label="Wanderson" />
+      <node id="Enis Bardhi" label="Enis Bardhi" />
+      <node id="Kastriot Imeri" label="Kastriot Imeri" />
+      <node id="Moi Gómez" label="Moi Gómez" />
+      <node id="Haris Seferovic" label="Haris Seferovic" />
+      <node id="Malang Sarr" label="Malang Sarr" />
+      <node id="Domingos Duarte" label="Domingos Duarte" />
+      <node id="Alejandro Pozuelo" label="Alejandro Pozuelo" />
+      <node id="Jordan Larsson" label="Jordan Larsson" />
+      <node id="Joshua King" label="Joshua King" />
+      <node id="Henrikh Mkhitaryan" label="Henrikh Mkhitaryan" />
+      <node id="Romain Saïss" label="Romain Saïss" />
+      <node id="Todd Cantwell" label="Todd Cantwell" />
+      <node id="Pol Lirola" label="Pol Lirola" />
+      <node id="Cédric Bakambu" label="Cédric Bakambu" />
+      <node id="Munir El Haddadi" label="Munir El Haddadi" />
+      <node id="Joe Gelhardt" label="Joe Gelhardt" />
+      <node id="Cameron Archer" label="Cameron Archer" />
+      <node id="Reinier" label="Reinier" />
+      <node id="Nedim Bajrami" label="Nedim Bajrami" />
+      <node id="Isaac Hayden" label="Isaac Hayden" />
+      <node id="Marco Carnesecchi" label="Marco Carnesecchi" />
+      <node id="Christos Tzolis" label="Christos Tzolis" />
+      <node id="Abdallah Sima" label="Abdallah Sima" />
+      <node id="Kacper Kozlowski" label="Kacper Kozlowski" />
+      <node id="Vedat Muriqi" label="Vedat Muriqi" />
+      <node id="Jean-Victor Makengo" label="Jean-Victor Makengo" />
+      <node id="Jota" label="Jota" />
+      <node id="Bartol Franjic" label="Bartol Franjic" />
+      <node id="Ousmane Diomande" label="Ousmane Diomande" />
+      <node id="Nicolò Casale" label="Nicolò Casale" />
+      <node id="Takefusa Kubo" label="Takefusa Kubo" />
+      <node id="Julian Ryerson" label="Julian Ryerson" />
+      <node id="Guus Til" label="Guus Til" />
+      <node id="Josip Brekalo" label="Josip Brekalo" />
+      <node id="Grischa Prömel" label="Grischa Prömel" />
+      <node id="Ezgjan Alioski" label="Ezgjan Alioski" />
+      <node id="Isco" label="Isco" />
+      <node id="Alexandru Cicaldau" label="Alexandru Cicaldau" />
+      <node id="Quinten Timber" label="Quinten Timber" />
+      <node id="Cameron Carter-Vickers" label="Cameron Carter-Vickers" />
+      <node id="Strahinja Pavlovic" label="Strahinja Pavlovic" />
+      <node id="Matteo Lovato" label="Matteo Lovato" />
+      <node id="Aaron Boupendza" label="Aaron Boupendza" />
+      <node id="Malick Thiaw" label="Malick Thiaw" />
+      <node id="Lázaro" label="Lázaro" />
+      <node id="Ayrton Lucas" label="Ayrton Lucas" />
+      <node id="Casper Tengstedt" label="Casper Tengstedt" />
+      <node id="Oscar Gloukh" label="Oscar Gloukh" />
+      <node id="Israel" label="Israel" />
+      <node id="Samuel Lino" label="Samuel Lino" />
+      <node id="Jorge Carrascal" label="Jorge Carrascal" />
+      <node id="Jordan" label="Jordan" />
+      <node id="Giuliano Galoppo" label="Giuliano Galoppo" />
+      <node id="Matheus Martins" label="Matheus Martins" />
+      <node id="Cristian Arango" label="Cristian Arango" />
+      <node id="Luan Peres" label="Luan Peres" />
+      <node id="Toby Alderweireld" label="Toby Alderweireld" />
+      <node id="Ui-jo Hwang" label="Ui-jo Hwang" />
+      <node id="Fabien Centonze" label="Fabien Centonze" />
+      <node id="Willian Arão" label="Willian Arão" />
+      <node id="Raoul Bellanova" label="Raoul Bellanova" />
+      <node id="Morten Thorsby" label="Morten Thorsby" />
+      <node id="Wesley" label="Wesley" />
+      <node id="Adam Ounas" label="Adam Ounas" />
+      <node id="Théo Bongonda" label="Théo Bongonda" />
+      <node id="Nicolas Raskin" label="Nicolas Raskin" />
+      <node id="Eldor Shomurodov" label="Eldor Shomurodov" />
+      <node id="Agustín Rossi" label="Agustín Rossi" />
+      <node id="Oliver Abildgaard" label="Oliver Abildgaard" />
+      <node id="Diogo Leite" label="Diogo Leite" />
+      <node id="Maycon" label="Maycon" />
+      <node id="Kenedy" label="Kenedy" />
+      <node id="Andreaw Gravillon" label="Andreaw Gravillon" />
+      <node id="Anthony Caci" label="Anthony Caci" />
+      <node id="Milot Rashica" label="Milot Rashica" />
+      <node id="Yeferson Soteldo" label="Yeferson Soteldo" />
+      <node id="John Anthony Brooks" label="John Anthony Brooks" />
+      <node id="Paulinho" label="Paulinho" />
+      <node id="Igor Gomes" label="Igor Gomes" />
+      <node id="Liam Delap" label="Liam Delap" />
+      <node id="Colin Dagba" label="Colin Dagba" />
+      <node id="Riqui Puig" label="Riqui Puig" />
+      <node id="Jack Stephens" label="Jack Stephens" />
+      <node id="Lucien Agoumé" label="Lucien Agoumé" />
+      <node id="Uroš Račić" label="Uroš Račić" />
+      <node id="Jonjo Shelvey" label="Jonjo Shelvey" />
+      <node id="Miguel Borja" label="Miguel Borja" />
+      <node id="Colombia" label="Colombia" />
+      <node id="Sávio" label="Sávio" />
+      <node id="Cyriel Dessers" label="Cyriel Dessers" />
+      <node id="Samir Caetano" label="Samir Caetano" />
+      <node id="Yira Sor" label="Yira Sor" />
+      <node id="Stipe Biuk" label="Stipe Biuk" />
+      <node id="Gedson Fernandes" label="Gedson Fernandes" />
+      <node id="Alberth Elis" label="Alberth Elis" />
+      <node id="Ridvan Yilmaz" label="Ridvan Yilmaz" />
+      <node id="Mostafa Mohamed" label="Mostafa Mohamed" />
+      <node id="Egypt" label="Egypt" />
+      <node id="Nicolás Castro" label="Nicolás Castro" />
+      <node id="Erick Pulgar" label="Erick Pulgar" />
+      <node id="Selim Amallah" label="Selim Amallah" />
+      <node id="Niklas Stark" label="Niklas Stark" />
+      <node id="Santiago Ascacíbar" label="Santiago Ascacíbar" />
+      <node id="Jed Wallace" label="Jed Wallace" />
+      <node id="Rémy Cabella" label="Rémy Cabella" />
+      <node id="Víctor Guzmán" label="Víctor Guzmán" />
+      <node id="Matt Turner" label="Matt Turner" />
+      <node id="Jörgen Strand Larsen" label="Jörgen Strand Larsen" />
+      <node id="Jayden Oosterwolde" label="Jayden Oosterwolde" />
+      <node id="Yusuf Demir" label="Yusuf Demir" />
+      <node id="Fausto Vera" label="Fausto Vera" />
+      <node id="David Hancko" label="David Hancko" />
+      <node id="Mario Gila" label="Mario Gila" />
+      <node id="Fernando" label="Fernando" />
+      <node id="Pep Biel" label="Pep Biel" />
+      <node id="Kiki Kouyaté" label="Kiki Kouyaté" />
+      <node id="Djordje Mihailovic" label="Djordje Mihailovic" />
+      <node id="Matías Galarza" label="Matías Galarza" />
+      <node id="Felix Afena-Gyan" label="Felix Afena-Gyan" />
+      <node id="Bjorn Meijer" label="Bjorn Meijer" />
+      <node id="Enzo Copetti" label="Enzo Copetti" />
+      <node id="Christian Benteke" label="Christian Benteke" />
+      <node id="Jonathan Rodríguez" label="Jonathan Rodríguez" />
+      <node id="Valentin Rosier" label="Valentin Rosier" />
+      <node id="Anel Ahmedhodzic" label="Anel Ahmedhodzic" />
+      <node id="Sweden" label="Sweden" />
+      <node id="Junior Messias" label="Junior Messias" />
+      <node id="Franco Cristaldo" label="Franco Cristaldo" />
+      <node id="Javairô Dilrosun" label="Javairô Dilrosun" />
+      <node id="Miguel Gutiérrez" label="Miguel Gutiérrez" />
+      <node id="Matías Vargas" label="Matías Vargas" />
+      <node id="Julián Araujo" label="Julián Araujo" />
+      <node id="Darwin Machís" label="Darwin Machís" />
+      <node id="Gamid Agalarov" label="Gamid Agalarov" />
+      <node id="Fredrik Midtsjö" label="Fredrik Midtsjö" />
+      <node id="Alistair Johnston" label="Alistair Johnston" />
+      <node id="Amir Hadziahmetovic" label="Amir Hadziahmetovic" />
+      <node id="Gonzalo Plata" label="Gonzalo Plata" />
+      <node id="Lucas Piton" label="Lucas Piton" />
+      <node id="Willy Boly" label="Willy Boly" />
+      <node id="Eric Bailly" label="Eric Bailly" />
+      <node id="Bartlomiej Dragowski" label="Bartlomiej Dragowski" />
+      <node id="Pedro Raul" label="Pedro Raul" />
+      <node id="Japan" label="Japan" />
+      <node id="Daniel Wass" label="Daniel Wass" />
+      <node id="Amadou Diawara" label="Amadou Diawara" />
+      <node id="Marc Bartra" label="Marc Bartra" />
+      <node id="Lorenzo Lucca" label="Lorenzo Lucca" />
+    </nodes>
+    <edges>
+      <edge source="Erling Haaland" target="Germany" id="0" weight="1" />
+      <edge source="Enzo Fernández" target="Portugal" id="1" weight="1" />
+      <edge source="Enzo Fernández" target="Argentina" id="2" weight="1" />
+      <edge source="Antony" target="Netherlands" id="3" weight="1" />
+      <edge source="Wesley Fofana" target="England" id="4" weight="1" />
+      <edge source="Aurélien Tchouameni" target="Monaco" id="5" weight="1" />
+      <edge source="Casemiro" target="Spain" id="6" weight="1" />
+      <edge source="Alexander Isak" target="Spain" id="7" weight="1" />
+      <edge source="Mykhaylo Mudryk" target="Ukraine" id="8" weight="1" />
+      <edge source="Matthijs de Ligt" target="Italy" id="9" weight="1" />
+      <edge source="Raheem Sterling" target="England" id="10" weight="1" />
+      <edge source="Sadio Mané" target="England" id="11" weight="1" />
+      <edge source="Romelu Lukaku" target="England" id="12" weight="1" />
+      <edge source="João Cancelo" target="England" id="13" weight="1" />
+      <edge source="Marc Cucurella" target="England" id="14" weight="1" />
+      <edge source="Federico Chiesa" target="Italy" id="15" weight="1" />
+      <edge source="Jules Kounde" target="Spain" id="16" weight="1" />
+      <edge source="Cody Gakpo" target="Netherlands" id="17" weight="1" />
+      <edge source="Richarlison" target="England" id="18" weight="1" />
+      <edge source="Raphinha" target="England" id="19" weight="1" />
+      <edge source="Lisandro Martínez" target="Netherlands" id="20" weight="1" />
+      <edge source="Darwin Núñez" target="Portugal" id="21" weight="1" />
+      <edge source="Fabián Ruiz" target="Italy" id="22" weight="1" />
+      <edge source="Gabriel Jesus" target="England" id="23" weight="1" />
+      <edge source="Cristian Romero" target="Italy" id="24" weight="1" />
+      <edge source="Kalvin Phillips" target="England" id="25" weight="1" />
+      <edge source="Carlos Soler" target="Spain" id="26" weight="1" />
+      <edge source="João Félix" target="Spain" id="27" weight="1" />
+      <edge source="Paul Pogba" target="England" id="28" weight="1" />
+      <edge source="Anthony Gordon" target="England" id="29" weight="1" />
+      <edge source="Robert Lewandowski" target="Germany" id="30" weight="1" />
+      <edge source="Matheus Nunes" target="Portugal" id="31" weight="1" />
+      <edge source="Franck Kessié" target="Italy" id="32" weight="1" />
+      <edge source="Lucas Paquetá" target="France" id="33" weight="1" />
+      <edge source="Amine Gouiri" target="France" id="34" weight="1" />
+      <edge source="Vitinha" target="Portugal" id="35" weight="2" />
+      <edge source="Bremer" target="Italy" id="36" weight="1" />
+      <edge source="Nuno Mendes" target="Portugal" id="37" weight="1" />
+      <edge source="Benoît Badiashile" target="Monaco" id="38" weight="1" />
+      <edge source="Gonçalo Guedes" target="Spain" id="39" weight="1" />
+      <edge source="Gonçalo Guedes" target="England" id="40" weight="1" />
+      <edge source="Diego Carlos" target="Spain" id="41" weight="1" />
+      <edge source="Antonio Rüdiger" target="England" id="42" weight="1" />
+      <edge source="Kalidou Koulibaly" target="Italy" id="43" weight="1" />
+      <edge source="Sven Botman" target="France" id="44" weight="1" />
+      <edge source="Gianluca Scamacca" target="Italy" id="45" weight="1" />
+      <edge source="Fábio Vieira" target="Portugal" id="46" weight="1" />
+      <edge source="Nayef Aguerd" target="France" id="47" weight="1" />
+      <edge source="Oleksandr Zinchenko" target="England" id="48" weight="1" />
+      <edge source="Amadou Onana" target="France" id="49" weight="1" />
+      <edge source="Noni Madueke" target="Netherlands" id="50" weight="1" />
+      <edge source="Sébastien Haller" target="Netherlands" id="51" weight="1" />
+      <edge source="Karim Adeyemi" target="Austria" id="52" weight="1" />
+      <edge source="Yves Bissouma" target="England" id="53" weight="1" />
+      <edge source="Timo Werner" target="England" id="54" weight="1" />
+      <edge source="Ryan Gravenberch" target="Netherlands" id="55" weight="1" />
+      <edge source="Jorginho" target="England" id="56" weight="1" />
+      <edge source="Arnaut Danjuma" target="Spain" id="57" weight="1" />
+      <edge source="Niklas Süle" target="Germany" id="58" weight="1" />
+      <edge source="Andreas Christensen" target="England" id="59" weight="1" />
+      <edge source="Paulo Dybala" target="Italy" id="60" weight="1" />
+      <edge source="Nico Schlotterbeck" target="Germany" id="61" weight="1" />
+      <edge source="Brenden Aaronson" target="Austria" id="62" weight="1" />
+      <edge source="Charles De Ketelaere" target="Belgium" id="63" weight="1" />
+      <edge source="Steven Bergwijn" target="England" id="64" weight="1" />
+      <edge source="Malo Gusto" target="France" id="65" weight="1" />
+      <edge source="Leandro Trossard" target="England" id="66" weight="1" />
+      <edge source="Manuel Akanji" target="Germany" id="67" weight="1" />
+      <edge source="Frank Anguissa" target="England" id="68" weight="1" />
+      <edge source="Nicolò Zaniolo" target="Italy" id="69" weight="1" />
+      <edge source="Renan Lodi" target="Spain" id="70" weight="1" />
+      <edge source="Tanguy Ndombélé" target="England" id="71" weight="1" />
+      <edge source="Angeliño" target="Germany" id="72" weight="1" />
+      <edge source="Morgan Gibbs-White" target="England" id="73" weight="1" />
+      <edge source="Renato Sanches" target="France" id="74" weight="1" />
+      <edge source="Leander Dendoncker" target="England" id="75" weight="1" />
+      <edge source="Giacomo Raspadori" target="Italy" id="76" weight="1" />
+      <edge source="Hugo Ekitiké" target="France" id="77" weight="1" />
+      <edge source="Mohamed Camara" target="Austria" id="78" weight="1" />
+      <edge source="Xaver Schlager" target="Germany" id="79" weight="1" />
+      <edge source="Denis Zakaria" target="Italy" id="80" weight="1" />
+      <edge source="David Raum" target="Germany" id="81" weight="1" />
+      <edge source="Luis Sinisterra" target="Netherlands" id="82" weight="1" />
+      <edge source="Jakub Kiwior" target="Italy" id="83" weight="1" />
+      <edge source="Kamaldeen Sulemana" target="France" id="84" weight="1" />
+      <edge source="Merih Demiral" target="Italy" id="85" weight="1" />
+      <edge source="João Palhinha" target="Portugal" id="86" weight="1" />
+      <edge source="Danilo" target="Brazil" id="87" weight="1" />
+      <edge source="Sasa Kalajdzic" target="Germany" id="88" weight="1" />
+      <edge source="Mattéo Guendouzi" target="England" id="89" weight="1" />
+      <edge source="Pedro Porro" target="England" id="90" weight="1" />
+      <edge source="Pedro Porro" target="Portugal" id="91" weight="1" />
+      <edge source="Raúl de Tomás" target="Spain" id="92" weight="1" />
+      <edge source="Lucas Ocampos" target="Spain" id="93" weight="1" />
+      <edge source="Lorenzo Insigne" target="Italy" id="94" weight="1" />
+      <edge source="Boubacar Kamara" target="France" id="95" weight="1" />
+      <edge source="Conor Coady" target="England" id="96" weight="1" />
+      <edge source="Nicolas Pépé" target="England" id="97" weight="1" />
+      <edge source="Callum Hudson-Odoi" target="England" id="98" weight="1" />
+      <edge source="Sergio Reguilón" target="England" id="99" weight="1" />
+      <edge source="Nathan Collins" target="England" id="100" weight="1" />
+      <edge source="Filip Kostić" target="Germany" id="101" weight="1" />
+      <edge source="Joaquín Correa" target="Italy" id="102" weight="1" />
+      <edge source="Calvin Bassey" target="Scotland" id="103" weight="1" />
+      <edge source="Ilya Zabarnyi" target="Ukraine" id="104" weight="1" />
+      <edge source="Jérémie Boga" target="Italy" id="105" weight="1" />
+      <edge source="Sofiane Diop" target="Monaco" id="106" weight="1" />
+      <edge source="Thilo Kehrer" target="France" id="107" weight="1" />
+      <edge source="Cengiz Ünder" target="Italy" id="108" weight="1" />
+      <edge source="Viktor Tsygankov" target="Ukraine" id="109" weight="1" />
+      <edge source="James Tarkowski" target="England" id="110" weight="1" />
+      <edge source="Giovani Lo Celso" target="England" id="111" weight="1" />
+      <edge source="Julian Weigl" target="Portugal" id="112" weight="1" />
+      <edge source="Jan Bednarek" target="England" id="113" weight="1" />
+      <edge source="Mauro Icardi" target="France" id="114" weight="1" />
+      <edge source="Hamed Junior Traorè" target="Italy" id="115" weight="1" />
+      <edge source="Weston McKennie" target="Italy" id="116" weight="1" />
+      <edge source="Maxwel Cornet" target="England" id="117" weight="1" />
+      <edge source="Taiwo Awoniyi" target="Germany" id="118" weight="1" />
+      <edge source="David Carmo" target="Portugal" id="119" weight="1" />
+      <edge source="Philippe Coutinho" target="Spain" id="120" weight="1" />
+      <edge source="Neco Williams" target="England" id="121" weight="1" />
+      <edge source="Mathys Tel" target="France" id="122" weight="1" />
+      <edge source="Nahuel Molina" target="Italy" id="123" weight="1" />
+      <edge source="Arnaud Kalimuendo" target="France" id="124" weight="1" />
+      <edge source="Umar Sadiq" target="Spain" id="125" weight="1" />
+      <edge source="Pervis Estupiñán" target="Spain" id="126" weight="1" />
+      <edge source="David Neres" target="Ukraine" id="127" weight="1" />
+      <edge source="Dodô" target="Ukraine" id="128" weight="1" />
+      <edge source="Álex Moreno" target="Spain" id="129" weight="1" />
+      <edge source="Adam Hlozek" target="Czech Republic" id="130" weight="1" />
+      <edge source="Nordi Mukiele" target="Germany" id="131" weight="1" />
+      <edge source="Remo Freuler" target="Italy" id="132" weight="1" />
+      <edge source="Lucas Torreira" target="England" id="133" weight="1" />
+      <edge source="Pablo Sarabia" target="France" id="134" weight="1" />
+      <edge source="Trincão" target="Spain" id="135" weight="1" />
+      <edge source="Memphis Depay" target="Spain" id="136" weight="1" />
+      <edge source="Antonin Barak" target="Italy" id="137" weight="2" />
+      <edge source="Noussair Mazraoui" target="Netherlands" id="138" weight="1" />
+      <edge source="Christian Eriksen" target="England" id="139" weight="1" />
+      <edge source="Andrea Pinamonti" target="Italy" id="140" weight="1" />
+      <edge source="Nico González" target="Spain" id="141" weight="1" />
+      <edge source="Andrea Belotti" target="Italy" id="142" weight="1" />
+      <edge source="Héctor Bellerín" target="England" id="143" weight="1" />
+      <edge source="Héctor Bellerín" target="Spain" id="144" weight="1" />
+      <edge source="Matheus Cunha" target="Spain" id="145" weight="1" />
+      <edge source="Marcel Sabitzer" target="Germany" id="146" weight="1" />
+      <edge source="Keane Lewis-Potter" target="England" id="147" weight="1" />
+      <edge source="Arthur Theate" target="Italy" id="148" weight="1" />
+      <edge source="Arthur Theate" target="Belgium" id="149" weight="1" />
+      <edge source="Hassane Kamara" target="England" id="150" weight="1" />
+      <edge source="João Gomes" target="Brazil" id="151" weight="1" />
+      <edge source="Min-jae Kim" target="Turkey" id="152" weight="1" />
+      <edge source="Carney Chukwuemeka" target="England" id="153" weight="1" />
+      <edge source="Destiny Udogie" target="Italy" id="154" weight="2" />
+      <edge source="Destiny Udogie" target="England" id="155" weight="1" />
+      <edge source="Paul Onuachu" target="Belgium" id="156" weight="1" />
+      <edge source="Dwight McNeil" target="England" id="157" weight="1" />
+      <edge source="Aaron Hickey" target="Italy" id="158" weight="1" />
+      <edge source="Gaëtan Laborde" target="France" id="159" weight="1" />
+      <edge source="Gerson" target="France" id="160" weight="1" />
+      <edge source="Brais Méndez" target="Spain" id="161" weight="1" />
+      <edge source="Neal Maupay" target="England" id="162" weight="1" />
+      <edge source="Moussa Niakhaté" target="Germany" id="163" weight="1" />
+      <edge source="Mattia Zaccagni" target="Italy" id="164" weight="1" />
+      <edge source="Zeki Celik" target="France" id="165" weight="1" />
+      <edge source="Arthur Melo" target="Italy" id="166" weight="1" />
+      <edge source="Julian Draxler" target="France" id="167" weight="1" />
+      <edge source="Abdou Diallo" target="France" id="168" weight="1" />
+      <edge source="Matthias Ginter" target="Germany" id="169" weight="1" />
+      <edge source="Jesse Lingard" target="England" id="170" weight="1" />
+      <edge source="Dean Henderson" target="England" id="171" weight="1" />
+      <edge source="Alex Telles" target="England" id="172" weight="1" />
+      <edge source="Georginio Wijnaldum" target="France" id="173" weight="1" />
+      <edge source="Sergiño Dest" target="Spain" id="174" weight="1" />
+      <edge source="André Gomes" target="England" id="175" weight="1" />
+      <edge source="Daniel James" target="England" id="176" weight="1" />
+      <edge source="Nathan Redmond" target="England" id="177" weight="1" />
+      <edge source="Ruslan Malinovskyi" target="Italy" id="178" weight="1" />
+      <edge source="Issa Diop" target="England" id="179" weight="1" />
+      <edge source="Matt Targett" target="England" id="180" weight="1" />
+      <edge source="Tyler Adams" target="Germany" id="181" weight="1" />
+      <edge source="Wout Faes" target="France" id="182" weight="1" />
+      <edge source="Harry Souttar" target="England" id="183" weight="1" />
+      <edge source="Tyrell Malacia" target="Netherlands" id="184" weight="1" />
+      <edge source="Marcos Senesi" target="Netherlands" id="185" weight="1" />
+      <edge source="Jordan Veretout" target="Italy" id="186" weight="1" />
+      <edge source="Giovanni Simeone" target="Italy" id="187" weight="2" />
+      <edge source="Yusuf Yazici" target="France" id="188" weight="1" />
+      <edge source="Alessio Romagnoli" target="Italy" id="189" weight="1" />
+      <edge source="Chancel Mbemba" target="Portugal" id="190" weight="1" />
+      <edge source="Leandro Paredes" target="France" id="191" weight="1" />
+      <edge source="Kasper Dolberg" target="France" id="192" weight="2" />
+      <edge source="Hee-chan Hwang" target="Germany" id="193" weight="1" />
+      <edge source="Jhon Durán" target="United States" id="194" weight="1" />
+      <edge source="Mathías Olivera" target="Spain" id="195" weight="1" />
+      <edge source="Brian Brobbey" target="Germany" id="196" weight="1" />
+      <edge source="Georginio Rutter" target="Germany" id="197" weight="1" />
+      <edge source="Tanguy Nianzou" target="Germany" id="198" weight="1" />
+      <edge source="Danny Ings" target="England" id="199" weight="1" />
+      <edge source="St. Juste" target="Germany" id="200" weight="1" />
+      <edge source="Arkadiusz Milik" target="Italy" id="201" weight="1" />
+      <edge source="Arkadiusz Milik" target="France" id="202" weight="1" />
+      <edge source="Duje Caleta-Car" target="France" id="203" weight="1" />
+      <edge source="Matteo Pessina" target="Italy" id="204" weight="1" />
+      <edge source="Randal Kolo Muani" target="France" id="205" weight="1" />
+      <edge source="Luiz Felipe" target="Italy" id="206" weight="1" />
+      <edge source="Luka Jović" target="Spain" id="207" weight="1" />
+      <edge source="Bertrand Traoré" target="England" id="208" weight="1" />
+      <edge source="Dele Alli" target="England" id="209" weight="1" />
+      <edge source="Diadié Samassékou" target="Germany" id="210" weight="1" />
+      <edge source="Yuri Alberto" target="Russia" id="211" weight="1" />
+      <edge source="Cheick Doucouré" target="France" id="212" weight="1" />
+      <edge source="Roman Yaremchuk" target="Portugal" id="213" weight="1" />
+      <edge source="Takumi Minamino" target="England" id="214" weight="1" />
+      <edge source="Mikkel Damsgaard" target="Italy" id="215" weight="1" />
+      <edge source="Cesare Casadei" target="Italy" id="216" weight="1" />
+      <edge source="Éverton" target="Portugal" id="217" weight="1" />
+      <edge source="Rasmus Kristensen" target="Austria" id="218" weight="1" />
+      <edge source="Orel Mangala" target="Germany" id="219" weight="1" />
+      <edge source="Breel Embolo" target="Germany" id="220" weight="1" />
+      <edge source="Pierre-Emerick Aubameyang" target="Spain" id="221" weight="1" />
+      <edge source="Khvicha Kvaratskhelia" target="Georgia" id="222" weight="1" />
+      <edge source="Nick Pope" target="England" id="223" weight="1" />
+      <edge source="Momo Cho" target="France" id="224" weight="1" />
+      <edge source="Mattias Svanberg" target="Italy" id="225" weight="1" />
+      <edge source="Azzedine Ounahi" target="France" id="226" weight="1" />
+      <edge source="Jonathan Clauss" target="France" id="227" weight="1" />
+      <edge source="Konstantinos Mavropanos" target="England" id="228" weight="1" />
+      <edge source="Terem Moffi" target="France" id="229" weight="1" />
+      <edge source="Alexandre Lacazette" target="England" id="230" weight="1" />
+      <edge source="Corentin Tolisso" target="Germany" id="231" weight="1" />
+      <edge source="Fábio Silva" target="England" id="232" weight="2" />
+      <edge source="Nuno Tavares" target="England" id="233" weight="1" />
+      <edge source="Harry Winks" target="England" id="234" weight="1" />
+      <edge source="Amad Diallo" target="England" id="235" weight="1" />
+      <edge source="Justin Kluivert" target="Italy" id="236" weight="1" />
+      <edge source="Albert Sambi Lokonga" target="England" id="237" weight="1" />
+      <edge source="Emmanuel Dennis" target="England" id="238" weight="1" />
+      <edge source="Djed Spence" target="England" id="239" weight="2" />
+      <edge source="Diego Rossi" target="United States" id="240" weight="1" />
+      <edge source="Emerson" target="England" id="241" weight="1" />
+      <edge source="Gavin Bazunu" target="England" id="242" weight="1" />
+      <edge source="Mohamed Bayo" target="France" id="243" weight="1" />
+      <edge source="Victor Kristiansen" target="Denmark" id="244" weight="1" />
+      <edge source="Marcão" target="Turkey" id="245" weight="1" />
+      <edge source="Wout Weghorst" target="England" id="246" weight="2" />
+      <edge source="Sebastian Szymanski" target="Russia" id="247" weight="1" />
+      <edge source="Yangel Herrera" target="England" id="248" weight="1" />
+      <edge source="Walter Benítez" target="France" id="249" weight="1" />
+      <edge source="Jason Denayer" target="France" id="250" weight="1" />
+      <edge source="Kayky" target="England" id="251" weight="2" />
+      <edge source="Carlos Alcaraz" target="Argentina" id="252" weight="1" />
+      <edge source="Éderson" target="Italy" id="253" weight="1" />
+      <edge source="Sékou Mara" target="France" id="254" weight="1" />
+      <edge source="Sergio Gómez" target="Belgium" id="255" weight="1" />
+      <edge source="Fredrik Aursnes" target="Netherlands" id="256" weight="1" />
+      <edge source="Lucas Gourna-Douath" target="France" id="257" weight="1" />
+      <edge source="Mattia Viti" target="Italy" id="258" weight="1" />
+      <edge source="Sasa Lukic" target="Italy" id="259" weight="1" />
+      <edge source="Salih Özcan" target="Germany" id="260" weight="1" />
+      <edge source="Ivan Ilić" target="Italy" id="261" weight="1" />
+      <edge source="Calvin Stengs" target="France" id="262" weight="1" />
+      <edge source="Ethan Ampadu" target="England" id="263" weight="1" />
+      <edge source="James Rodríguez" target="Qatar" id="264" weight="1" />
+      <edge source="Andrey Santos" target="Brazil" id="265" weight="1" />
+      <edge source="Andrey Santos" target="England" id="266" weight="1" />
+      <edge source="Roméo Lavia" target="England" id="267" weight="1" />
+      <edge source="Fernando Gorriarán" target="Mexico" id="268" weight="1" />
+      <edge source="Pau López" target="Italy" id="269" weight="1" />
+      <edge source="Marc Roca" target="Germany" id="270" weight="1" />
+      <edge source="Agustín Álvarez" target="Uruguay" id="271" weight="1" />
+      <edge source="Chris Richards" target="Germany" id="272" weight="1" />
+      <edge source="Alexis Beka Beka" target="Russia" id="273" weight="1" />
+      <edge source="Stanley Nsoki" target="Belgium" id="274" weight="1" />
+      <edge source="David Datro Fofana" target="Norway" id="275" weight="1" />
+      <edge source="Maximilian Wöber" target="Austria" id="276" weight="1" />
+      <edge source="Naouirou Ahamada" target="Germany" id="277" weight="1" />
+      <edge source="Gabriel Veron" target="Brazil" id="278" weight="1" />
+      <edge source="Luís Maximiano" target="Spain" id="279" weight="1" />
+      <edge source="Willian José" target="Spain" id="280" weight="1" />
+      <edge source="Owen Wijndal" target="Netherlands" id="281" weight="1" />
+      <edge source="Marko Grujić" target="England" id="282" weight="1" />
+      <edge source="Samuele Ricci" target="Italy" id="283" weight="1" />
+      <edge source="Billy Gilmour" target="England" id="284" weight="1" />
+      <edge source="Luiz Henrique" target="Brazil" id="285" weight="1" />
+      <edge source="Angelo Fulgini" target="France" id="286" weight="1" />
+      <edge source="Angelo Fulgini" target="Germany" id="287" weight="1" />
+      <edge source="Fábio Carvalho" target="England" id="288" weight="1" />
+      <edge source="João Pedro" target="Italy" id="289" weight="1" />
+      <edge source="Idrissa Gueye" target="France" id="290" weight="1" />
+      <edge source="Sérgio Oliveira" target="Portugal" id="291" weight="1" />
+      <edge source="Maxi Gómez" target="Spain" id="292" weight="1" />
+      <edge source="Andrea Petagna" target="Italy" id="293" weight="1" />
+      <edge source="Karl Toko Ekambi" target="France" id="294" weight="1" />
+      <edge source="Razvan Marin" target="Italy" id="295" weight="1" />
+      <edge source="Boulaye Dia" target="Spain" id="296" weight="1" />
+      <edge source="Krzysztof Piatek" target="Germany" id="297" weight="1" />
+      <edge source="Kevin Schade" target="Germany" id="298" weight="1" />
+      <edge source="Diego Llorente" target="England" id="299" weight="1" />
+      <edge source="Sam Johnstone" target="England" id="300" weight="1" />
+      <edge source="André Onana" target="Netherlands" id="301" weight="1" />
+      <edge source="Divock Origi" target="England" id="302" weight="1" />
+      <edge source="Clément Lenglet" target="Spain" id="303" weight="1" />
+      <edge source="Ángel Di María" target="France" id="304" weight="1" />
+      <edge source="Taty Castellanos" target="United States" id="305" weight="1" />
+      <edge source="Adnan Januzaj" target="Spain" id="306" weight="2" />
+      <edge source="Loïc Badé" target="France" id="307" weight="2" />
+      <edge source="Marcos Alonso" target="England" id="308" weight="1" />
+      <edge source="Gustavo Scarpa" target="Brazil" id="309" weight="1" />
+      <edge source="Bryan Gil" target="England" id="310" weight="1" />
+      <edge source="Sergi Canós" target="England" id="311" weight="1" />
+      <edge source="Matt Doherty" target="England" id="312" weight="1" />
+      <edge source="Marcus Tavernier" target="England" id="313" weight="1" />
+      <edge source="Julio Enciso" target="Paraguay" id="314" weight="1" />
+      <edge source="Youssouf Ndayishimiye" target="Turkey" id="315" weight="1" />
+      <edge source="Mario Lemina" target="France" id="316" weight="1" />
+      <edge source="Máximo Perrone" target="Argentina" id="317" weight="2" />
+      <edge source="Lyle Foster" target="Belgium" id="318" weight="1" />
+      <edge source="Joshua Zirkzee" target="Germany" id="319" weight="1" />
+      <edge source="Matheus Henrique" target="Brazil" id="320" weight="1" />
+      <edge source="Ludovic Ajorque" target="France" id="321" weight="1" />
+      <edge source="Nicolás Tagliafico" target="Netherlands" id="322" weight="1" />
+      <edge source="Mady Camara" target="Greece" id="323" weight="1" />
+      <edge source="Flynn Downes" target="Wales" id="324" weight="1" />
+      <edge source="Gabriel Sara" target="Brazil" id="325" weight="1" />
+      <edge source="James Garner" target="England" id="326" weight="1" />
+      <edge source="Antoine Semenyo" target="England" id="327" weight="1" />
+      <edge source="Nicolás Ibáñez" target="Mexico" id="328" weight="1" />
+      <edge source="Dango Ouattara" target="France" id="329" weight="1" />
+      <edge source="Armel Bella-Kotchap" target="Germany" id="330" weight="1" />
+      <edge source="Jens Petter Hauge" target="Italy" id="331" weight="1" />
+      <edge source="Jens Petter Hauge" target="Germany" id="332" weight="1" />
+      <edge source="Jakub Kaminski" target="Poland" id="333" weight="1" />
+      <edge source="Borja Mayoral" target="Spain" id="334" weight="1" />
+      <edge source="Jeffinho" target="Brazil" id="335" weight="1" />
+      <edge source="Rúben Vinagre" target="England" id="336" weight="1" />
+      <edge source="Raphael Onyedika" target="Denmark" id="337" weight="1" />
+      <edge source="Giulian Biancone" target="France" id="338" weight="1" />
+      <edge source="Armand Laurienté" target="France" id="339" weight="1" />
+      <edge source="Kristian Thorstvedt" target="Belgium" id="340" weight="1" />
+      <edge source="Junya Ito" target="Belgium" id="341" weight="1" />
+      <edge source="Luis Suárez" target="Spain" id="342" weight="1" />
+      <edge source="Luis Suárez" target="France" id="343" weight="1" />
+      <edge source="Ademola Lookman" target="Germany" id="344" weight="1" />
+      <edge source="Guglielmo Vicario" target="Italy" id="345" weight="1" />
+      <edge source="Rolando Mandragora" target="Italy" id="346" weight="1" />
+      <edge source="Gerónimo Rulli" target="Spain" id="347" weight="1" />
+      <edge source="Joe Aribo" target="Scotland" id="348" weight="1" />
+      <edge source="Beto" target="Portugal" id="349" weight="1" />
+      <edge source="Ozan Kabak" target="Germany" id="350" weight="1" />
+      <edge source="Sofiane Boufal" target="France" id="351" weight="1" />
+      <edge source="Mislav Orsic" target="Croatia" id="352" weight="1" />
+      <edge source="Gianluca Caprari" target="Italy" id="353" weight="2" />
+      <edge source="Kristjan Asllani" target="Italy" id="354" weight="1" />
+      <edge source="Wilfried Gnonto" target="Switzerland" id="355" weight="1" />
+      <edge source="Hugo Duro" target="Spain" id="356" weight="1" />
+      <edge source="Mahmoud Trezeguet" target="England" id="357" weight="1" />
+      <edge source="Michy Batshuayi" target="England" id="358" weight="1" />
+      <edge source="Mario Götze" target="Netherlands" id="359" weight="1" />
+      <edge source="Léo Dubois" target="France" id="360" weight="1" />
+      <edge source="Aster Vranckx" target="Germany" id="361" weight="1" />
+      <edge source="Alexander Sörloth" target="Germany" id="362" weight="1" />
+      <edge source="Mathias Normann" target="Russia" id="363" weight="1" />
+      <edge source="Romain Faivre" target="France" id="364" weight="1" />
+      <edge source="Aleksey Miranchuk" target="Italy" id="365" weight="1" />
+      <edge source="Pierluigi Gollini" target="Italy" id="366" weight="1" />
+      <edge source="Alessio Cragno" target="Italy" id="367" weight="1" />
+      <edge source="Manu Sánchez" target="Spain" id="368" weight="1" />
+      <edge source="Cyle Larin" target="Turkey" id="369" weight="1" />
+      <edge source="Ivan Perisic" target="Italy" id="370" weight="1" />
+      <edge source="Federico Bernardeschi" target="Italy" id="371" weight="1" />
+      <edge source="Alex Mowatt" target="England" id="372" weight="1" />
+      <edge source="Ander Herrera" target="France" id="373" weight="1" />
+      <edge source="Nicolò Rovella" target="Italy" id="374" weight="1" />
+      <edge source="Stefan Posch" target="Germany" id="375" weight="1" />
+      <edge source="Serhou Guirassy" target="France" id="376" weight="1" />
+      <edge source="Ainsley Maitland-Niles" target="England" id="377" weight="1" />
+      <edge source="Amine Harit" target="Germany" id="378" weight="1" />
+      <edge source="Allan" target="England" id="379" weight="1" />
+      <edge source="Chris Wood" target="England" id="380" weight="1" />
+      <edge source="Matheus Pereira" target="Saudi Arabia" id="381" weight="1" />
+      <edge source="Pape Gueye" target="France" id="382" weight="1" />
+      <edge source="Jeff Reine-Adélaïde" target="France" id="383" weight="1" />
+      <edge source="Marquinhos" target="England" id="384" weight="1" />
+      <edge source="Marquinhos" target="Brazil" id="385" weight="1" />
+      <edge source="Florian Thauvin" target="Mexico" id="386" weight="1" />
+      <edge source="Loïs Openda" target="Belgium" id="387" weight="1" />
+      <edge source="Cucho Hernández" target="England" id="388" weight="1" />
+      <edge source="José Manuel López" target="Argentina" id="389" weight="1" />
+      <edge source="João Victor" target="Brazil" id="390" weight="1" />
+      <edge source="João Victor" target="Portugal" id="391" weight="1" />
+      <edge source="Andreas Pereira" target="England" id="392" weight="1" />
+      <edge source="Ahmetcan Kaplan" target="Turkey" id="393" weight="1" />
+      <edge source="Evander" target="Denmark" id="394" weight="1" />
+      <edge source="Miralem Pjanic" target="Spain" id="395" weight="1" />
+      <edge source="Lewis O'Brien" target="England" id="396" weight="1" />
+      <edge source="Alphonse Areola" target="France" id="397" weight="1" />
+      <edge source="Gabriel Slonina" target="United States" id="398" weight="1" />
+      <edge source="Andrea Colpani" target="Italy" id="399" weight="1" />
+      <edge source="Perr Schuurs" target="Netherlands" id="400" weight="1" />
+      <edge source="Christopher Wooh" target="France" id="401" weight="1" />
+      <edge source="Andreas Schjelderup" target="Denmark" id="402" weight="1" />
+      <edge source="Jonas Omlin" target="France" id="403" weight="1" />
+      <edge source="Josip Juranovic" target="Scotland" id="404" weight="1" />
+      <edge source="Jhon Lucumí" target="Belgium" id="405" weight="1" />
+      <edge source="Adam Buksa" target="United States" id="406" weight="1" />
+      <edge source="Andreas Cornelius" target="Turkey" id="407" weight="1" />
+      <edge source="Facundo Buonanotte" target="Argentina" id="408" weight="1" />
+      <edge source="Kevin Mbabu" target="Germany" id="409" weight="1" />
+      <edge source="Anders Dreyer" target="Denmark" id="410" weight="1" />
+      <edge source="Anders Dreyer" target="Russia" id="411" weight="1" />
+      <edge source="Bernd Leno" target="England" id="412" weight="1" />
+      <edge source="Kristijan Jakic" target="Croatia" id="413" weight="1" />
+      <edge source="Anwar El Ghazi" target="England" id="414" weight="1" />
+      <edge source="Predrag Rajković" target="France" id="415" weight="1" />
+      <edge source="Nikola Moro" target="Russia" id="416" weight="1" />
+      <edge source="Ricardo Pepi" target="Germany" id="417" weight="1" />
+      <edge source="Thorgan Hazard" target="Germany" id="418" weight="1" />
+      <edge source="Portu" target="Spain" id="419" weight="1" />
+      <edge source="Freddie Woodman" target="England" id="420" weight="1" />
+      <edge source="Óscar Rodríguez" target="Spain" id="421" weight="1" />
+      <edge source="Unai Núñez" target="Spain" id="422" weight="1" />
+      <edge source="Luca Pellegrini" target="Italy" id="423" weight="2" />
+      <edge source="Paco Alcácer" target="Spain" id="424" weight="1" />
+      <edge source="Jean-Philippe Gbamin" target="England" id="425" weight="1" />
+      <edge source="Ilaix Moriba" target="Germany" id="426" weight="1" />
+      <edge source="Rafinha" target="France" id="427" weight="1" />
+      <edge source="Ritsu Doan" target="Netherlands" id="428" weight="1" />
+      <edge source="Omar Richards" target="Germany" id="429" weight="1" />
+      <edge source="Julien Duranville" target="Belgium" id="430" weight="1" />
+      <edge source="Giulio Maggiore" target="Italy" id="431" weight="1" />
+      <edge source="Alexander Bah" target="Czech Republic" id="432" weight="1" />
+      <edge source="Simon Adingra" target="Denmark" id="433" weight="1" />
+      <edge source="André Almeida" target="Portugal" id="434" weight="1" />
+      <edge source="Nathan Ngoumou" target="France" id="435" weight="1" />
+      <edge source="El Bilal Touré" target="France" id="436" weight="1" />
+      <edge source="Ismaël Koné" target="Canada" id="437" weight="1" />
+      <edge source="César Montes" target="Mexico" id="438" weight="1" />
+      <edge source="Yann Sommer" target="Germany" id="439" weight="1" />
+      <edge source="Marcos Antônio" target="Ukraine" id="440" weight="1" />
+      <edge source="Abner" target="Brazil" id="441" weight="1" />
+      <edge source="Bamba Dieng" target="France" id="442" weight="1" />
+      <edge source="Kaiky" target="Brazil" id="443" weight="1" />
+      <edge source="Lucas Alario" target="Germany" id="444" weight="1" />
+      <edge source="Patrick Wimmer" target="Germany" id="445" weight="1" />
+      <edge source="Flavius Daniliuc" target="France" id="446" weight="1" />
+      <edge source="Francisco Conceição" target="Portugal" id="447" weight="1" />
+      <edge source="Carlos Vinícius" target="Portugal" id="448" weight="1" />
+      <edge source="Martín Ojeda" target="Argentina" id="449" weight="1" />
+      <edge source="Denis Bouanga" target="France" id="450" weight="1" />
+      <edge source="Wanderson" target="Russia" id="451" weight="1" />
+      <edge source="Enis Bardhi" target="Spain" id="452" weight="1" />
+      <edge source="Kastriot Imeri" target="Switzerland" id="453" weight="1" />
+      <edge source="Moi Gómez" target="Spain" id="454" weight="1" />
+      <edge source="Haris Seferovic" target="Portugal" id="455" weight="1" />
+      <edge source="Malang Sarr" target="England" id="456" weight="1" />
+      <edge source="Domingos Duarte" target="Spain" id="457" weight="1" />
+      <edge source="Alejandro Pozuelo" target="Canada" id="458" weight="1" />
+      <edge source="Jordan Larsson" target="Russia" id="459" weight="1" />
+      <edge source="Joshua King" target="England" id="460" weight="2" />
+      <edge source="Henrikh Mkhitaryan" target="Italy" id="461" weight="1" />
+      <edge source="Romain Saïss" target="England" id="462" weight="2" />
+      <edge source="Todd Cantwell" target="England" id="463" weight="2" />
+      <edge source="Pol Lirola" target="France" id="464" weight="1" />
+      <edge source="Cédric Bakambu" target="France" id="465" weight="1" />
+      <edge source="Munir El Haddadi" target="Spain" id="466" weight="1" />
+      <edge source="Joe Gelhardt" target="England" id="467" weight="1" />
+      <edge source="Cameron Archer" target="England" id="468" weight="1" />
+      <edge source="Reinier" target="Spain" id="469" weight="1" />
+      <edge source="Nedim Bajrami" target="Italy" id="470" weight="1" />
+      <edge source="Isaac Hayden" target="England" id="471" weight="1" />
+      <edge source="Marco Carnesecchi" target="Italy" id="472" weight="1" />
+      <edge source="Christos Tzolis" target="England" id="473" weight="1" />
+      <edge source="Abdallah Sima" target="England" id="474" weight="1" />
+      <edge source="Kacper Kozlowski" target="England" id="475" weight="1" />
+      <edge source="Vedat Muriqi" target="Italy" id="476" weight="1" />
+      <edge source="Jean-Victor Makengo" target="Italy" id="477" weight="1" />
+      <edge source="Jota" target="Portugal" id="478" weight="1" />
+      <edge source="Bartol Franjic" target="Croatia" id="479" weight="1" />
+      <edge source="Ousmane Diomande" target="Denmark" id="480" weight="1" />
+      <edge source="Nicolò Casale" target="Italy" id="481" weight="1" />
+      <edge source="Takefusa Kubo" target="Spain" id="482" weight="1" />
+      <edge source="Julian Ryerson" target="Germany" id="483" weight="1" />
+      <edge source="Guus Til" target="Russia" id="484" weight="1" />
+      <edge source="Josip Brekalo" target="Germany" id="485" weight="1" />
+      <edge source="Grischa Prömel" target="Germany" id="486" weight="1" />
+      <edge source="Ezgjan Alioski" target="Saudi Arabia" id="487" weight="1" />
+      <edge source="Isco" target="Spain" id="488" weight="1" />
+      <edge source="Alexandru Cicaldau" target="Turkey" id="489" weight="1" />
+      <edge source="Quinten Timber" target="Netherlands" id="490" weight="1" />
+      <edge source="Cameron Carter-Vickers" target="England" id="491" weight="1" />
+      <edge source="Strahinja Pavlovic" target="Monaco" id="492" weight="1" />
+      <edge source="Matteo Lovato" target="Italy" id="493" weight="1" />
+      <edge source="Aaron Boupendza" target="Qatar" id="494" weight="1" />
+      <edge source="Malick Thiaw" target="Germany" id="495" weight="1" />
+      <edge source="Lázaro" target="Brazil" id="496" weight="1" />
+      <edge source="Ayrton Lucas" target="Russia" id="497" weight="1" />
+      <edge source="Casper Tengstedt" target="Norway" id="498" weight="1" />
+      <edge source="Oscar Gloukh" target="Israel" id="499" weight="1" />
+      <edge source="Samuel Lino" target="Portugal" id="500" weight="1" />
+      <edge source="Jorge Carrascal" target="Argentina" id="501" weight="1" />
+      <edge source="Jordan" target="Switzerland" id="502" weight="1" />
+      <edge source="Giuliano Galoppo" target="Argentina" id="503" weight="1" />
+      <edge source="Matheus Martins" target="Brazil" id="504" weight="1" />
+      <edge source="Cristian Arango" target="United States" id="505" weight="1" />
+      <edge source="Luan Peres" target="France" id="506" weight="1" />
+      <edge source="Toby Alderweireld" target="Qatar" id="507" weight="1" />
+      <edge source="Ui-jo Hwang" target="France" id="508" weight="1" />
+      <edge source="Ui-jo Hwang" target="England" id="509" weight="2" />
+      <edge source="Fabien Centonze" target="France" id="510" weight="1" />
+      <edge source="Willian Arão" target="Brazil" id="511" weight="1" />
+      <edge source="Raoul Bellanova" target="Italy" id="512" weight="1" />
+      <edge source="Raoul Bellanova" target="France" id="513" weight="1" />
+      <edge source="Morten Thorsby" target="Italy" id="514" weight="1" />
+      <edge source="Wesley" target="Brazil" id="515" weight="1" />
+      <edge source="Adam Ounas" target="Italy" id="516" weight="1" />
+      <edge source="Théo Bongonda" target="Belgium" id="517" weight="1" />
+      <edge source="Nicolas Raskin" target="Belgium" id="518" weight="1" />
+      <edge source="Eldor Shomurodov" target="Italy" id="519" weight="1" />
+      <edge source="Agustín Rossi" target="Argentina" id="520" weight="1" />
+      <edge source="Oliver Abildgaard" target="Russia" id="521" weight="1" />
+      <edge source="Diogo Leite" target="Portugal" id="522" weight="1" />
+      <edge source="Maycon" target="Ukraine" id="523" weight="1" />
+      <edge source="Kenedy" target="England" id="524" weight="1" />
+      <edge source="Andreaw Gravillon" target="France" id="525" weight="1" />
+      <edge source="Andreaw Gravillon" target="Italy" id="526" weight="2" />
+      <edge source="Anthony Caci" target="France" id="527" weight="1" />
+      <edge source="Milot Rashica" target="England" id="528" weight="2" />
+      <edge source="Yeferson Soteldo" target="Mexico" id="529" weight="2" />
+      <edge source="John Anthony Brooks" target="Germany" id="530" weight="2" />
+      <edge source="Paulinho" target="Germany" id="531" weight="2" />
+      <edge source="Igor Gomes" target="Brazil" id="532" weight="2" />
+      <edge source="Liam Delap" target="England" id="533" weight="2" />
+      <edge source="Colin Dagba" target="France" id="534" weight="1" />
+      <edge source="Riqui Puig" target="Spain" id="535" weight="1" />
+      <edge source="Jack Stephens" target="England" id="536" weight="1" />
+      <edge source="Lucien Agoumé" target="Italy" id="537" weight="1" />
+      <edge source="Uroš Račić" target="Spain" id="538" weight="1" />
+      <edge source="Jonjo Shelvey" target="England" id="539" weight="1" />
+      <edge source="Miguel Borja" target="Colombia" id="540" weight="1" />
+      <edge source="Sávio" target="Brazil" id="541" weight="1" />
+      <edge source="Cyriel Dessers" target="Belgium" id="542" weight="1" />
+      <edge source="Samir Caetano" target="England" id="543" weight="1" />
+      <edge source="Yira Sor" target="Czech Republic" id="544" weight="1" />
+      <edge source="Stipe Biuk" target="Croatia" id="545" weight="1" />
+      <edge source="Gedson Fernandes" target="Portugal" id="546" weight="1" />
+      <edge source="Alberth Elis" target="Portugal" id="547" weight="1" />
+      <edge source="Ridvan Yilmaz" target="Turkey" id="548" weight="1" />
+      <edge source="Mostafa Mohamed" target="Egypt" id="549" weight="1" />
+      <edge source="Mostafa Mohamed" target="Turkey" id="550" weight="1" />
+      <edge source="Nicolás Castro" target="Argentina" id="551" weight="1" />
+      <edge source="Erick Pulgar" target="Italy" id="552" weight="1" />
+      <edge source="Selim Amallah" target="Belgium" id="553" weight="1" />
+      <edge source="Niklas Stark" target="Germany" id="554" weight="1" />
+      <edge source="Santiago Ascacíbar" target="Germany" id="555" weight="2" />
+      <edge source="Jed Wallace" target="England" id="556" weight="1" />
+      <edge source="Rémy Cabella" target="France" id="557" weight="1" />
+      <edge source="Víctor Guzmán" target="Mexico" id="558" weight="1" />
+      <edge source="Matt Turner" target="United States" id="559" weight="1" />
+      <edge source="Jörgen Strand Larsen" target="Netherlands" id="560" weight="1" />
+      <edge source="Jayden Oosterwolde" target="Italy" id="561" weight="1" />
+      <edge source="Yusuf Demir" target="Austria" id="562" weight="1" />
+      <edge source="Fausto Vera" target="Argentina" id="563" weight="1" />
+      <edge source="David Hancko" target="Czech Republic" id="564" weight="1" />
+      <edge source="Mario Gila" target="Spain" id="565" weight="1" />
+      <edge source="Fernando" target="Ukraine" id="566" weight="1" />
+      <edge source="Pep Biel" target="Denmark" id="567" weight="1" />
+      <edge source="Kiki Kouyaté" target="France" id="568" weight="1" />
+      <edge source="Djordje Mihailovic" target="Canada" id="569" weight="1" />
+      <edge source="Matías Galarza" target="Argentina" id="570" weight="1" />
+      <edge source="Felix Afena-Gyan" target="Italy" id="571" weight="1" />
+      <edge source="Bjorn Meijer" target="Netherlands" id="572" weight="1" />
+      <edge source="Enzo Copetti" target="Argentina" id="573" weight="1" />
+      <edge source="Christian Benteke" target="England" id="574" weight="1" />
+      <edge source="Jonathan Rodríguez" target="Saudi Arabia" id="575" weight="1" />
+      <edge source="Valentin Rosier" target="Portugal" id="576" weight="1" />
+      <edge source="Anel Ahmedhodzic" target="Sweden" id="577" weight="1" />
+      <edge source="Junior Messias" target="Italy" id="578" weight="1" />
+      <edge source="Franco Cristaldo" target="Argentina" id="579" weight="1" />
+      <edge source="Javairô Dilrosun" target="Germany" id="580" weight="1" />
+      <edge source="Miguel Gutiérrez" target="Spain" id="581" weight="1" />
+      <edge source="Matías Vargas" target="Spain" id="582" weight="1" />
+      <edge source="Julián Araujo" target="United States" id="583" weight="1" />
+      <edge source="Darwin Machís" target="Spain" id="584" weight="1" />
+      <edge source="Gamid Agalarov" target="Russia" id="585" weight="1" />
+      <edge source="Fredrik Midtsjö" target="Netherlands" id="586" weight="1" />
+      <edge source="Alistair Johnston" target="Canada" id="587" weight="1" />
+      <edge source="Amir Hadziahmetovic" target="Turkey" id="588" weight="1" />
+      <edge source="Gonzalo Plata" target="Portugal" id="589" weight="1" />
+      <edge source="Lucas Piton" target="Brazil" id="590" weight="1" />
+      <edge source="Willy Boly" target="England" id="591" weight="1" />
+      <edge source="Eric Bailly" target="England" id="592" weight="1" />
+      <edge source="Bartlomiej Dragowski" target="Italy" id="593" weight="1" />
+      <edge source="Pedro Raul" target="Japan" id="594" weight="1" />
+      <edge source="Daniel Wass" target="Spain" id="595" weight="1" />
+      <edge source="Amadou Diawara" target="Italy" id="596" weight="1" />
+      <edge source="Marc Bartra" target="Spain" id="597" weight="1" />
+      <edge source="Lorenzo Lucca" target="Italy" id="598" weight="1" />
+    </edges>
+  </graph>
+</gexf>
